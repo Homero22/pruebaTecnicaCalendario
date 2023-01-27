@@ -1,0 +1,37 @@
+.clientes{
+	font-size: 12px;
+	font-family: sans-serif;
+  	background-image: url('../img/clientes2.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+  
+}
+
+.ventas{
+	font-size: 12px;
+	font-family: sans-serif;
+  	background-image: url('../img/ventas.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+  
+}
+
+.principal{
+	font-size: 12px;
+	font-family: sans-serif;
+  	background-image: url('../img/Fondo2.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+  
+}
+
+
+
+.acerca{
+	font-size: 12px;
+	font-family: sans-serif;
+  	background-image: url('../img/acerca.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+  
+}

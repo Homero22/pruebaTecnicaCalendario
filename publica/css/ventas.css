@@ -1,0 +1,9 @@
+.ventas{
+    font-size: 12px;
+	font-family: sans-serif;
+  	background-image: url('../img/Fondo_ventas.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+    background-color: #f5f6f8;
+    overflow: hidden;
+}
